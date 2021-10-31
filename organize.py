@@ -5,8 +5,8 @@ import shutil
 import time
 
 # This is your original photo folder
-localPath = "E:/personale/poze_huawei_mate_20/neorganizate"
-destinationPath = "E:/personale/poze_huawei_mate_20/organizate"
+localPath = "E:/poze_Sofia"
+destinationPath = "E:/poze_Sofia_organizate"
 _TAGS_r = dict(((v, k) for k, v in TAGS.items()))
 totalFiles = 0
 processedPhotos = 0
